@@ -1,0 +1,5 @@
+La ruta permite recibir información enviada por un usuario y responder con un mensaje en formato JSON. 
+En este caso recibe un mensaje y devuelve una confirmación indicando que el reporte fue recibido.
+
+Esta ruta podría servir en una aplicación comunitaria para que las personas envíen reportes, alertas, quejas o información importante 
+relacionada con la comunidad. Por ejemplo, reportar problemas en un barrio, daños en servicios o situaciones de emergencia.
